@@ -1,0 +1,11 @@
+C:\MAS\MAStransit\TransitLog\TransitLog\bin\Debug\TransitLog.exe.config
+C:\MAS\MAStransit\TransitLog\TransitLog\bin\Debug\TransitLog.exe
+C:\MAS\MAStransit\TransitLog\TransitLog\bin\Debug\TransitLog.pdb
+C:\MAS\MAStransit\TransitLog\TransitLog\obj\Debug\TransitLog.csprojResolveAssemblyReference.cache
+C:\MAS\MAStransit\TransitLog\TransitLog\obj\Debug\TransitLog.Form1.resources
+C:\MAS\MAStransit\TransitLog\TransitLog\obj\Debug\TransitLog.Properties.Resources.resources
+C:\MAS\MAStransit\TransitLog\TransitLog\obj\Debug\TransitLog.csproj.GenerateResource.Cache
+C:\MAS\MAStransit\TransitLog\TransitLog\obj\Debug\TransitLog.exe
+C:\MAS\MAStransit\TransitLog\TransitLog\obj\Debug\TransitLog.pdb
+C:\MAS\MAStransit\TransitLog\TransitLog\bin\Debug\MySql.Data.dll
+C:\MAS\MAStransit\TransitLog\TransitLog\bin\Debug\MySql.Data.xml
